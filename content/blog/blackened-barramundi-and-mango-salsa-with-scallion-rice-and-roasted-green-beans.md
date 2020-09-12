@@ -8,6 +8,8 @@ description: Blackened Barramundi and Mango Salsa with Scallion Rice and Roasted
 
 ![picture of blackened barramundi and mango salsa recipe ingredients, prep and cooking instructions](../assets/0005-blackened-barramundi-and-mango-salsa-pic-2.jpeg)
 
+Fantastic fish recipe!
+
 Prep Time - 10 min
 
 Total Time - 30 min

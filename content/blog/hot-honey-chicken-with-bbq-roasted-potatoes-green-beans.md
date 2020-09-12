@@ -1,5 +1,5 @@
 ---
-path: recipe-0004-hot-honey-chicken-pic-1
+path: recipe-0004-hot-honey-chicken
 date: 2020-09-12T19:38:14.282Z
 title: 🍗   🥔   Hot Honey Chicken with BBQ-Roasted Potatoes
 description: Hot Honey Chicken with BBQ-Roasted Potatoes & Green Beans or Steamed Broccoli

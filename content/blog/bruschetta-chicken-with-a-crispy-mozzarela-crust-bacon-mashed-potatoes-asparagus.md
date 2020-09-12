@@ -1,7 +1,7 @@
 ---
 path: recipe-0003-bruschetta-chicken
 date: 2020-09-12T19:32:23.779Z
-title: Bruschetta Chicken with a Crispy Mozzarela Crust
+title: 🍗  Bruschetta Chicken with a Crispy Mozzarela Crust
 description: Bruschetta Chicken with a Crispy Mozzarela Crust, Bacon Mashed
   Potatoes & Asparagus
 ---

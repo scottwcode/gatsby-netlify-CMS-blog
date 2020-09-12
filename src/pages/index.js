@@ -24,10 +24,10 @@ class IndexPage extends React.Component {
         </h1>
         <p>Welcome to my personal blog. Not much to it yet...</p>
         <p>
-          This was created using Gatsbyjs with Netlify CMS to manage content and
-          thanks to Marin for the svg pic!
+          This was created using Gatsbyjs with Netlify CMS to manage content.
+          Thanks to Marin for the sssss...svg pic above!
         </p>
-        <p>Feel free to look around!</p>
+        <p>Feel free to look around! Everything should be ⚡️ fast </p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Recipe Blog</Button>
         </Link>

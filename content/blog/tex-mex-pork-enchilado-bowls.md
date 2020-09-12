@@ -18,11 +18,9 @@ Produced in a facility that processes milk, eggs, fish, shellfish, tree nuts, pe
 
 ...and picture...
 
-![picture of finished recipe from Hello Fresh web-site](../assets/0006-tex-mex-pork-enchilada-bowls-pic-3.png)
+![picture of finished recipe from Hello Fresh web-site](../assets/0006-tex-mex-pork-enchilada-bowls-pic-4.png)
 
 and below are the pictures from the packet we received in September 2020
-
-
 
 ![Finished Tex-Mex Pork Enchilado Bowls](../assets/0006-tex-mex-pork-enchilada-bowls-pic-1.jpeg)
 

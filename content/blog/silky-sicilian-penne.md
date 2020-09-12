@@ -1,7 +1,7 @@
 ---
 path: 0008-silky-sicilian-penne
 date: 2020-09-12T21:27:14.500Z
-title: Silky Sicilian Penne
+title: 🌱   Silky Sicilian Penne
 description: "Silky Sicilian Penne "
 ---
 ![picture of finished Silky Sicilian Penne](../assets/0008-silky-sicilian-penne-pic-1.jpeg)

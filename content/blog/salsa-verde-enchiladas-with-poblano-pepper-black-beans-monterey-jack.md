@@ -1,7 +1,7 @@
 ---
 path: recipe-0002-Salsa Verde Enchiladas
 date: 2020-09-12T18:49:48.530Z
-title: Salsa Verde Enchiladas
+title: 🌮   Salsa Verde Enchiladas
 description: Hall of Fame recipe - Salsa Verde Enchiladas with Poblano Pepper,
   Black Beans & Monterey Jack
 ---

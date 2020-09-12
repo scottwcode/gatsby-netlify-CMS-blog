@@ -13,6 +13,6 @@ Hall of fame all star recipe. Vegetarian but can add meat of your choice should 
 
 Prep time 10 min; 
 
-Total 35 min; 
+Total Time 35 min; 
 
 Calories 800

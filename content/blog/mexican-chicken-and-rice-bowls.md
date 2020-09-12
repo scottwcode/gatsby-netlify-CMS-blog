@@ -10,6 +10,6 @@ description: Mexican Chicken and Rice Bowls with Salsa Fresca & Lime Sour Cream
 
 Prep Time - 5 min
 
-Total - 20 min
+Total Time - 20 min
 
 Calories - 660

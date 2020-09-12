@@ -1,8 +1,8 @@
 ---
 path: recipe-0004-hot-honey-chicken-pic-1
 date: 2020-09-12T19:38:14.282Z
-title: 🍗   🥔   Hot Honey Chicken with BBQ-Roasted Potatoes & Green Beans
-description: Hot Honey Chicken with BBQ-Roasted Potatoes & Green Beans
+title: 🍗   🥔   Hot Honey Chicken with BBQ-Roasted Potatoes
+description: Hot Honey Chicken with BBQ-Roasted Potatoes & Green Beans or Steamed Broccoli
 ---
 Here's a link for a similar recipe (with broccoli instead of green beans) from the Hello Fresh web-site.
 
@@ -17,6 +17,8 @@ Tags:Spicy•Family friendly•Calorie Smart•One Pan
 Allergens:Wheat•Milk
 
 ...and picture from the Hello Fresh web-site...
+
+![](../assets/0004-hot-honey-chicken-pic-3.png)
 
 along with a picture from our packet we received in September 2020
 

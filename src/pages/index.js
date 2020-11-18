@@ -15,7 +15,12 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
+        <img
+          style={{ margin: 0 }}
+          // src="./GatsbyScene.svg"
+          src="./scott-face2.png"
+          alt="Scott Picture"
+        />
         <h1>
           Hey people{" "}
           <span role="img" aria-label="wave emoji">
@@ -25,8 +30,8 @@ class IndexPage extends React.Component {
         <p>Welcome to my personal blog. Not much to it yet...</p>
         <p>
           This was created using Gatsbyjs with Netlify CMS to manage content.
-          Thanks to Marin for the sssss...svg pic above!
         </p>
+        <p>Thanks to Marin for the ssss.svg image above!</p>
         <p>Feel free to look around! Everything should be ⚡️ fast </p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Recipes</Button>

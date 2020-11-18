@@ -19,6 +19,13 @@ Allergens:Wheat•Milk
 
 Produced in a facility that processes milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, and soybean.
 
+\
+...pic from Hello Fresh website...
+
+![]()
+
+
+
 Pics from our packet in August 2020
 
 ![Picture of finished Salsa Verde Enchiladas](../assets/0001-salsa-verde-enchiladas-pic-1.jpeg)

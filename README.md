@@ -4,7 +4,11 @@
 
 This is the search-enabled version of Gatsby Personal Starter Blog!
 
-## 🚀 Quick start
+### Live Site
+
+[Click Here to See Live Site](https://the-recipe-blog.netlify.app)
+
+## Quick start
 
 1.  **Create a Gatsby site.**
 
@@ -41,10 +45,10 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 📔 Learning Netlify CMS with Gatsby
+## Learning Netlify CMS with Gatsby
 
 Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/#authenticating-with-github) in the Gatsby documentation to finish the set up for your personal Netlify CMS with authentication.
 
-## 💫 Deploy
+## Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)

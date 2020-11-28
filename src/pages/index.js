@@ -19,6 +19,7 @@ class IndexPage extends React.Component {
           style={{ margin: 0 }}
           // src="./GatsbyScene.svg"
           // src="./scott-face2.png"
+          // This image needs to be in the static dir to be built correctly
           src="./santa-cam.png"
           alt="Santa Camera"
         />

@@ -20,7 +20,7 @@ class IndexPage extends React.Component {
           // src="./GatsbyScene.svg"
           // src="./scott-face2.png"
           src="./santa-cam.png"
-          alt="Santa Camera Picture"
+          alt="Santa Camera"
         />
         <h1>
           Hello{" "}

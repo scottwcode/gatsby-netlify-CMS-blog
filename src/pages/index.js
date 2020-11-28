@@ -33,7 +33,7 @@ class IndexPage extends React.Component {
           This was created using Gatsbyjs with Netlify CMS to manage content and deployment.
         </p>
         <p>Feel free to look around! Everything should be ⚡️ fast. </p>
-        <p>Click the button below to see some good stuff </p>
+        <p>Click the button below to see some good recipes </p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Recipes</Button>
         </Link>
